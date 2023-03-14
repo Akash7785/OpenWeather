@@ -1,0 +1,10 @@
+#city{
+    height: 30px;
+    width: 300px;
+}
+button{
+    height: 35px;
+    width:80px;
+    background-color: black;
+    color: white;
+}
